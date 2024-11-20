@@ -1,2 +1,4 @@
 # CODEC_INTERSHIP_PROJECT
-This is my project when i am join a online intership.
+During my online intership with CODEC TECHNOLOGY.
+I hed the opportunity to explore the world of python developer. 
+Here are some my Handmade creations, showcasing my skill and creativity.
